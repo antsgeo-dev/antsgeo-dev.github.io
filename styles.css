@@ -178,13 +178,13 @@ my-map {
   display: none;
 }
 
-.labelClass_complain-window .basic {
-  margin-top: 10px;
+.labelClass_complain-window-send {
+  margin-top: 10px !important;
 }
 
-.labelClass_complain-window .form textarea {
-  padding-left: 33px;
-  resize: none;
+.labelClass_complain-window-comment {
+  padding-left: 33px !important;
+  resize: none !important;
 }
 
 .ui.icon.input>textarea:focus~i.icon {
